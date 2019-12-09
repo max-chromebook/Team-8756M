@@ -1,4 +1,4 @@
 # Team-8756M
-McCallum High School Robotics
+McCallum High School Robotics M Team
 
 
